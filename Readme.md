@@ -8,4 +8,4 @@
 
 Компиляция и запуск:
 
-`go build && propellerAds`
+`go build && ./propellerads-test`
